@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Flask-MongoDB-App
 This is a Flask application where we are going to connect MongoDB with Flask Application
 # | Bek Brace YouTube Channel |
@@ -65,3 +66,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Acknowledgments
 This project was created as an educational resource for connecting Flask with MongoDB.
 Feel free to modify this README to include any additional information specific to your project. Enjoy using your Flask application with MongoDB!
+=======
+# Flask-app
+>>>>>>> 56be9288528df9bca34815e77d5d4557971770b5
