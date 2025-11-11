@@ -1,8 +1,6 @@
 <<<<<<< HEAD
 # Flask-MongoDB-App
 This is a Flask application where we are going to connect MongoDB with Flask Application
-# | Bek Brace YouTube Channel |
-| Bek Brace YouTube Tutorial - Mid November 2023 |
 
 ![image](https://github.com/BekBrace/Flask-MongoDB-App/assets/60483846/03b7f7e3-b5dc-4477-bed0-1ac6eb532308)
 
@@ -12,9 +10,7 @@ This is a Flask application where we are going to connect MongoDB with Flask App
 
 This is a simple Flask web application that demonstrates how to connect to a MongoDB database. It allows you to add and delete todo items.
 
-## Prerequisites
-
-Before running the application, make sure you have the following installed:
+## Tools
 
 - Python
 - Flask
@@ -26,9 +22,6 @@ You can install the required Python packages using pip:
 ```bash
 pip install Flask pymongo
 ```
-
-Setting up MongoDB
-Install MongoDB on your system if you haven't already. You can download it from MongoDB's official website.
 
 Start the MongoDB server in your command prompt:
 
@@ -60,12 +53,6 @@ To delete a todo item, click on the "Delete" button next to the item.
 Project Structure
 app.py: The main Flask application.
 templates/index.html: HTML template for rendering the list of todo items.
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Acknowledgments
-This project was created as an educational resource for connecting Flask with MongoDB.
-Feel free to modify this README to include any additional information specific to your project. Enjoy using your Flask application with MongoDB!
 =======
 # Flask-app
 >>>>>>> 56be9288528df9bca34815e77d5d4557971770b5
