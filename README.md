@@ -31,12 +31,6 @@ mongosh
 
 Create a MongoDB database named flask_db and a collection named todos where your data will be stored.
 
-Running the Application
-Clone this repository to your local machine:
-```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
-```
 
 Start the Flask application:
 ```bash
@@ -52,7 +46,4 @@ To delete a todo item, click on the "Delete" button next to the item.
 
 Project Structure
 app.py: The main Flask application.
-templates/index.html: HTML template for rendering the list of todo items.
-=======
-# Flask-app
->>>>>>> 56be9288528df9bca34815e77d5d4557971770b5
+templates/index.html: HTML template for rendering the list 
