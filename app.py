@@ -24,7 +24,6 @@ def delete(id):
     todos.delete_one({"_id": ObjectId(id)})
     return redirect(url_for('index'))
 
-# 👉 New route
 @app.route("/about")
 def about():
     return render_template("about.html")
